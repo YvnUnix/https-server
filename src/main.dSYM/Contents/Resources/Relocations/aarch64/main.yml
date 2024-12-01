@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ygauthier/Desktop/System-Project/https-server/src/main'
+relocations:     []
+...
